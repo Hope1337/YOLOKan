@@ -1,0 +1,22 @@
+torch
+torchvision
+tqdm
+accelerate
+wandb
+scikit-learn
+omegaconf
+hydra-core
+datasets
+pillow
+torchinfo
+torchmetrics
+einops
+matplotlib
+huggingface_hub
+lion-pytorch
+imbalanced-learn
+albumentations
+optuna @ git+https://github.com/optuna/optuna
+ray[tune]
+medpy
+timm

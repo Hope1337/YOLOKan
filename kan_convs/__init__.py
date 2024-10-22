@@ -1,0 +1,1 @@
+from .kan_convs.kan_conv import KANConv2DLayer
