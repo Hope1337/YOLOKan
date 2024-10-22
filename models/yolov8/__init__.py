@@ -1,0 +1,1 @@
+from .net import yolo_v8_l, yolo_v8_m, yolo_v8_n, yolo_v8_s, yolo_v8_x
